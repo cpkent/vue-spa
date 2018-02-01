@@ -13,7 +13,7 @@
 
 <script>
   export default {
-    props: ['post']
+    props: ['link']
   }
 </script>
 
